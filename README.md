@@ -1,9 +1,10 @@
 # Projets-Openclassrooms
-## Data Analyst 
-## Diplôme de niveau 6 (bac +3/4) 
-## Découvrez pas à pas le monde de la Data Science : préparez, analysez et modélisez des données. ##
-PÉRIODE DE FORMATION DURÉE DE LA FORMATION 12 mois à temps plein 804 heures 
 ---
+Data Analyst 
+Diplôme de niveau 6 (bac +3/4) 
+Découvrez pas à pas le monde de la Data Science : préparez, analysez et modélisez des données.
+PÉRIODE DE FORMATION DURÉE DE LA FORMATION 12 mois à temps plein 804 heures 
+--
 Projet 1 - Prenez en main votre formation de Data Analyst
 Nombre d'heures: 14 heures
 Résumé: Mettez-vous dans les meilleures conditions pour réussir votre parcours en définissant votre planning et en vous appropriant les outils essentiels.
