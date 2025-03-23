@@ -11,7 +11,7 @@
 
 ## 📅 Projets réalisés
 
-### 🌟 Projet 1 - Prenez en main votre formation de Data Analyst
+###  📂Projet 1 - Prenez en main votre formation de Data Analyst
 
 - **Nombre d'heures** : 14 heures
 - **Résumé** : Mettez-vous dans les meilleures conditions pour réussir votre parcours en définissant votre planning et en vous appropriant les outils essentiels.
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Projet 2 - Faites une analyse de ventes pour un e-commerce
+###  📂Projet 2 - Faites une analyse de ventes pour un e-commerce
 
 - **Nombre d'heures** : 40 heures
 - **Résumé** : Choisissez les bons graphiques pour synthétiser votre analyse des ventes et générez des graphiques avec Excel.
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 Projet 4 - Réalisez une étude de santé publique avec R ou Python
+### 📂 Projet 4 - Réalisez une étude de santé publique avec R ou Python
 
 - **Nombre d'heures** : 80 heures
 - **Résumé** : Prenez en main Python pour analyser les données de la FAO sur la faim dans le monde.
@@ -71,7 +71,7 @@
 
 ---
 
-### 🏢 Projet 5 - Créez et utilisez une base de données immobilière avec SQL
+### 📂 Projet 5 - Créez et utilisez une base de données immobilière avec SQL
 
 - **Nombre d'heures** : 60 heures
 - **Résumé** : Concevez et créez une base de données pour une agence immobilière, puis faites des requêtes SQL en respect du RGPD.
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 Projet 6 - Optimisez la gestion des données d'une boutique avec R ou Python
+### 📂 Projet 6 - Optimisez la gestion des données d'une boutique avec R ou Python
 
 - **Nombre d'heures** : 70 heures
 - **Résumé** : Faites cohabiter les différents jeux de données pour effectuer l'analyse demandée.
@@ -102,7 +102,7 @@
 
 ---
 
-### 📊 Projet 7 - Créez un tableau de bord dynamique avec Power BI
+### 📂 Projet 7 - Créez un tableau de bord dynamique avec Power BI
 
 - **Nombre d'heures** : 60 heures
 - **Résumé** : Aidez une entreprise à développer un outil de suivi de gestion de projet et identifier les retards.
@@ -114,7 +114,7 @@
 
 ---
 
-### 📊 Projet 8 - Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD
+### 📂 Projet 8 - Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD
 
 - **Nombre d'heures** : 60 heures
 - **Résumé** : Collectez et analysez les données des collaborateurs pour calculer les indicateurs d'égalité homme-femme.
@@ -124,7 +124,7 @@
 
 ---
 
-### 📊 Projet 9 - Analysez les ventes d'une librairie avec R ou Python
+### 📂 Projet 9 - Analysez les ventes d'une librairie avec R ou Python
 
 - **Nombre d'heures** : 90 heures
 - **Résumé** : Analysez les comportements d'achat et réalisez une prévision des ventes.
@@ -134,7 +134,7 @@
 
 ---
 
-### 📊 Projet 10 - Faites une étude sur l'eau potable
+### 📂 Projet 10 - Faites une étude sur l'eau potable
 
 - **Nombre d'heures** : 70 heures
 - **Résumé** : Créez des dashboards sur Power BI pour visualiser les données de l'accès à l'eau potable.
@@ -142,24 +142,23 @@
 
 ---
 
-### 📊 Projet 11 - Produisez une étude de marché avec R ou Python
+### 📂 Projet 11 - Produisez une étude de marché avec R ou Python
 
 - **Nombre d'heures** : 90 heures
 - **Résumé** : Étudiez le marché de votre entreprise avec du clustering et une ACP.
 
 ---
 
-### 📊 Projet 12 - Détectez des faux billets avec R ou Python
+### 📂 Projet 12 - Détectez des faux billets avec R ou Python
 
 - **Nombre d'heures** : 70 heures
 - **Résumé** : Construisez un modèle de prédiction pour détecter des faux billets.
 
 ---
 
-### 📊 Projet 13 - Créez votre portfolio de professionnel de la data
+### 📂 Projet 13 - Créez votre portfolio de professionnel de la data
 
 - **Nombre d'heures** : 70 heures
 - **Résumé** : Présentez vos compétences et projets sous la forme d’un portfolio original.
 
-📌 **Si vous avez des questions, n'hésitez pas à me contacter !** 😊
 
